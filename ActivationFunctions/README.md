@@ -1,4 +1,5 @@
 # Activation Functions
+```
 1. Identity Function
 2. Sigmoid
 3. Hyperbolic Tangent
@@ -12,3 +13,4 @@
 11. Scaled Exponential Linear Unit
 12. Swish
 13. Mish
+```
